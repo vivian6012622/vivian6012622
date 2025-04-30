@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to design systems**
 
-- ⚡ Fun fact **My brain’s wired for building blocks and software.**
+- ⚡ Fun fact **My brain’s wired for both building blocks and building software.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivian6012622&show_icons=true&locale=en&layout=compact" alt="vivian6012622" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivian6012622" alt="GitHub Streak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivian6012622&show_icons=true&locale=en" alt="vivian6012622" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivian6012622&" alt="vivian6012622" /></p>
